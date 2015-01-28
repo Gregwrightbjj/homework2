@@ -1,0 +1,39 @@
+.header2{
+  width: 106%;
+  margin-top:-8px;
+  margin-left:-8px;
+}
+.pics{
+ display: block;
+ padding-bottom:5px;
+  padding-top: 25px;
+}
+	
+.containers{
+
+  box-sizing:border-box;
+  word-wrap: break-word;
+  text-align: left;
+  padding-left: 450px;
+  Padding-right:450px;
+}
+
+.title2{
+  font-size:40px;
+  text-align: left;
+  
+}
+
+.title1{
+  font-size:45px;
+  text-align: left;
+  padding-top:80px;
+  
+}
+.info{
+  font-size:17px;
+  font-family:'PT Serif', serif;
+  padding-top:15px;
+  padding-bottom:15px;
+  color:
+}
